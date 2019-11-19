@@ -6,7 +6,7 @@ branches:
   - master
 env:
   global:
-  - REMOTE_PATH=/home/travis/uploads/travis/hello_world
+  - REMOTE_PATH=/home/travis/uploads/travis/hello_world/travis_digitalocean
   - REMOTE_USER=travis
   - REMOTE_HOST=raivencorps.me
 before_install:
