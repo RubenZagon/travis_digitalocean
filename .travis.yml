@@ -6,7 +6,7 @@ branches:
   - master
 env:
   global:
-  - REMOTE_PATH=Uploads/Travis_CI/Hello_World_Test
+  - REMOTE_PATH=/home/travis/uploads/travis/hello_world
   - REMOTE_USER=travis
   - REMOTE_HOST=raivencorps.me
 before_install:
